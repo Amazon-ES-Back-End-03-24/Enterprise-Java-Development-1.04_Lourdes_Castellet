@@ -7,6 +7,8 @@ public class Main {
         task2(args);
         System.out.println("\n");
         task3(args);
+        System.out.println("\n");
+        System.out.println("The end");
     }
     public static void task1(String[] args) {
         System.out.println("TASK 1");
