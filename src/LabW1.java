@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class LabW1 {
     public static void main(String[] args) {
         task1(args);
         System.out.println("\n");
